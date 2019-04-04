@@ -1,0 +1,19 @@
+.event.listening { 
+    display:block;
+}
+
+.event.received { 
+    display:none;
+} 
+
+.brand-logo {
+    padding-left: 20px!important;
+}
+
+.collection {
+    margin: 0rem 0 1rem 0;
+}
+ 
+.ip-address {
+    font-size: 26px!important;
+}
